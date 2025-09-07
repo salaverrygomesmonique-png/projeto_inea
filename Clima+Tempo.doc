@@ -1,0 +1,570 @@
+Date: Sun, 7 Sep 2025 16:57:34 +0000 (UTC)
+Message-ID: <223418094.7.1757264254890@4e808b7365ca>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_6_347691764.1757264254890"
+
+------=_Part_6_347691764.1757264254890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Clima Tempo</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font: var(--ds-font-body-small, Arial, Helvetica, FreeSans, sans-se=
+rif);
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        page-break-after: avoid;
+    }
+
+    pre {
+        font: var(--ds-font-code, Monaco, "Courier New", monospace);
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Clima Tempo</h1>
+    <div class=3D"Section1">
+        <div class=3D"confluence-information-macro confluence-information-m=
+acro-information">
+<span class=3D"aui-icon aui-icon-small aui-iconfont-info confluence-informa=
+tion-macro-icon"></span>
+<div class=3D"confluence-information-macro-body">
+<p>A gente adicionou conte=C3=BAdo de exemplo para ajudar voc=C3=AA a come=
+=C3=A7ar os testes no seu plano de projeto. Confira e edite este conte=C3=
+=BAdo para que fique com a sua cara.</p>
+</div>
+</div>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"85=
+f73006-88c4-4fdf-a90c-997871845f82" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 179.0px;">
+<col style=3D"width: 581.0px;">
+</colgroup>
+<tbody>
+<tr>
+<td data-highlight-colour=3D"#f4f5f7" class=3D"confluenceTd">
+<p><strong>=F0=9F=9A=97&nbsp;Coordenador</strong></p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"mailto:jose.eduardo@climatempo.com.br=
+" rel=3D"nofollow">jose.eduardo@climatempo.com.br</a></p></td>
+</tr>
+<tr>
+<td data-highlight-colour=3D"#f4f5f7" class=3D"confluenceTd">
+<p><strong>=E2=9A=A1=EF=B8=8F&nbsp;Equipe</strong></p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"confluence-userlink user-mention current-user-mention" data-=
+account-id=3D"611315e375ad96006992f28d" href=3D"https://cimatempo.atlassian=
+.net/wiki/people/611315e375ad96006992f28d?ref=3Dconfluence" target=3D"_blan=
+k" data-linked-resource-id=3D"98308" data-linked-resource-version=3D"1" dat=
+a-linked-resource-type=3D"userinfo" data-base-url=3D"https://cimatempo.atla=
+ssian.net/wiki">Monique Gomes</a> <a class=3D"external-link" href=3D"mailto=
+:felipe.oliveira@climatempo.com.br" rel=3D"nofollow">felipe.oliveira@climat=
+empo.com.br</a> <a class=3D"external-link" href=3D"mailto:elton.john@climat=
+empo.com.br" rel=3D"nofollow">elton.john@climatempo.com.br</a></p></td>
+</tr>
+<tr>
+<td data-highlight-colour=3D"#f4f5f7" class=3D"confluenceTd">
+<p><strong>=F0=9F=93=86&nbsp;Data de entrega</strong></p></td>
+<td class=3D"confluenceTd">
+<p><time datetime=3D"2025-09-05" class=3D"date-past">5 de set. de 2025</tim=
+e></p></td>
+</tr>
+<tr>
+<td data-highlight-colour=3D"#f4f5f7" class=3D"confluenceTd">
+<p><strong>Status</strong></p></td>
+<td class=3D"confluenceTd">
+<p><span class=3D"status-macro aui-lozenge aui-lozenge-visual-refresh aui-l=
+ozenge-current">EM ANDAMENTO</span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"ClimaTempo-=F0=9F=A4=94Descri=C3=A7=C3=A3odoproblema">=F0=9F=A4=
+=94&nbsp;Descri=C3=A7=C3=A3o do problema</h2>
+<p>A aplica=C3=A7=C3=A3o foi constru=C3=ADda em ambiente virtual na nuvem A=
+WS, em uma arquitetura distribu=C3=ADda, respeitando as boas pr=C3=A1ticas =
+com Well-architecture Tools, com a ado=C3=A7=C3=A3o de abordagens pra melho=
+rias no fluxo de altera=C3=A7=C3=B5es na produ=C3=A7=C3=A3o, permitindo ref=
+atorar, com feedback r=C3=A1pido sobre a qualidade e corre=C3=A7=C3=A3o de =
+erros, acelera as altera=C3=A7=C3=B5es ben=C3=A9ficas que entram na produ=
+=C3=A7=C3=A3o, com metodologia TDD/DDD e Solid.</p>
+<p>A aplica=C3=A7=C3=A3o permitir=C3=A1 a ingest=C3=A3o, processamento e vi=
+sualiza=C3=A7=C3=A3o de dados de radares meteorol=C3=B3gicos e esta=C3=A7=
+=C3=B5es hidrometeorol=C3=B3gicas.</p>
+<p>Aplica=C3=A7=C3=A3o constru=C3=ADda em ambiente virtual na nuvem AWS, se=
+rvidor Linux/Ubuntu em inst=C3=A2ncia EC2 por SSH. O armazenamento dos dado=
+s em bucket do S3, desacoplado por=C3=A9m integrado ao EC2.</p>
+<h2 id=3D"ClimaTempo-Objetivosdaarquitetura">Objetivos da arquitetura</h2>
+<ul>
+<li>
+<p>Avaliar as necessidades internas do cliente</p></li>
+<li>
+<p>Avaliar os requisitos de governan=C3=A7a</p></li>
+<li>
+<p>Avaliar os requisitos de conformidade</p></li>
+<li>
+<p>Avaliar o cen=C3=A1rio de amea=C3=A7as</p></li>
+<li>
+<p>Avaliar as vantagens e desvantagens ao gerenciar benef=C3=ADcios e risco=
+s</p></li>
+<li>
+<p>Usar pain=C3=A9is pra an=C3=A1lise de m=C3=A9tricas, logs e restreabilid=
+ade.</p></li>
+<li>
+<p>Rastreamento distribuido e telemetria.</p></li>
+<li>
+<p>Execu=C3=A7=C3=A3o de gerenciamento de patches.</p></li>
+<li>
+<p>Implementar pr=C3=A1ticas de qualidade do c=C3=B3digo.</p></li>
+<li>
+<p>Fazer altera=C3=A7=C3=B5es frequentes, pequenas e revers=C3=ADveis.</p><=
+/li>
+<li>
+<p>Automatizar a integra=C3=A7=C3=A3o e implanta=C3=A7=C3=A3o.</p></li>
+<li>
+<p>Cria=C3=A7=C3=A3o de planos de suporte para workloads de produ=C3=A7=C3=
+=A3o</p></li>
+<li>
+<p>Automatiza=C3=A7=C3=A3o das respostas (processamento e emiss=C3=A3o de a=
+larmes em tempo real)</p></li>
+</ul>
+<h2 id=3D"ClimaTempo-=F0=9F=8E=AFEscopodoprojeto">=F0=9F=8E=AF&nbsp;Escopo =
+do projeto</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"center" data-local-id=3D"26a=
+90801-7020-491e-8762-4b91d53027a8" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 760.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th data-highlight-colour=3D"#ffffff" class=3D"confluenceTh">
+<ul>
+<li>
+<p>Implementar aplica=C3=A7=C3=A3o em nuvem <strong>AWS.</strong></p></li>
+<li>
+<p>Configurar servi=C3=A7o <strong>FTP</strong> para ingest=C3=A3o de dados=
+.</p></li>
+<li>
+<p>Monitorar a exibi=C3=A7=C3=A3o de esta=C3=A7=C3=B5es em atraso ou incons=
+ist=C3=AAncias dos dados</p></li>
+</ul></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p><strong>PHP</strong></p></li>
+<li>
+<p><strong>Python (Django)</strong></p></li>
+<li>
+<p><strong>HTML, CSS, JavaScript</strong></p></li>
+<li>
+<p><strong>MySQL</strong></p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Processamento dos dados com apache spark</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"ClimaTempo-=F0=9F=97=93Configura=C3=A7=C3=A3oepol=C3=ADticas">=F0=
+=9F=97=93&nbsp;Configura=C3=A7=C3=A3o e pol=C3=ADticas</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"center" data-local-id=3D"e76=
+e9aa3-b4a8-4276-948c-ddf48c695847" class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh">
+<p><strong>Tipo de valida=C3=A7=C3=A3o</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Fonte</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Regras</strong></p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>Ambiente AWS</p></td>
+<td class=3D"confluenceTd">
+<p>ID EC2</p></td>
+<td class=3D"confluenceTd">
+<ul class=3D"inline-task-list" data-inline-tasks-content-id=3D"98419">
+<li data-inline-task-id=3D"492"><span class=3D"placeholder-inline-tasks">i-=
+046f9d24cbdc06c3c</span></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>Servidor Linux/Ubuntu</p></td>
+<td class=3D"confluenceTd">
+<p>Nome da AMI</p></td>
+<td class=3D"confluenceTd">
+<ul class=3D"inline-task-list" data-inline-tasks-content-id=3D"98419">
+<li data-inline-task-id=3D"493"><span class=3D"placeholder-inline-tasks">ub=
+untu/images/hvm-ssd-gp3/ubuntu-noble-24.04-amd64-server-20250821</span></li=
+>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>Servidor Linux/Ubuntu</p></td>
+<td class=3D"confluenceTd">
+<p>Local da AMI</p></td>
+<td class=3D"confluenceTd">
+<ul class=3D"inline-task-list" data-inline-tasks-content-id=3D"98419">
+<li data-inline-task-id=3D"494"><span class=3D"placeholder-inline-tasks">am=
+azon/ubuntu/images/hvm-ssd-gp3/ubuntu-noble-24.04-amd64-server-20250821</sp=
+an></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>Observabilidade</p></td>
+<td class=3D"confluenceTd">
+<p>CloudWatch <a class=3D"external-link" href=3D"https://cloudwatch.amazona=
+ws.com/dashboard.html?dashboard=3DCloudWatch-Default&amp;context=3DeyJSIjoi=
+dXMtZWFzdC0xIiwiRCI6ImN3LWRiLTI5NDE5MDk3MDcxOCIsIlUiOiJ1cy1lYXN0LTFfUGdmUFJ=
+oZWFJIiwiQyI6IjQ0am5sZGVuZWVhOHVnZ2h2azJtYzRhbnFhIiwiSSI6InVzLWVhc3QtMTpmN2=
+I0Nzg1Yy0xYzJhLTRmODgtYmEzOS03YjhiYTdhYTQ4MmQiLCJPIjoiYXJuOmF3czppYW06OjI5N=
+DE5MDk3MDcxODpyb2xlL3NlcnZpY2Utcm9sZS9DV0RCU2hhcmluZy1QdWJsaWNSZWFkT25seUFj=
+Y2Vzcy1SUFowVEY2VyIsIk0iOiJQdWJsaWMifQ=3D=3D&amp;start=3DPT3H&amp;end=3Dnul=
+l" rel=3D"nofollow">Dashboard CloudWatch</a></p></td>
+<td class=3D"confluenceTd">
+<p>awsec2-i-046f9d24cbdc06c3c-GreaterThanOrEqualToThreshold-CPUUtilization<=
+/p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>Servidor FTP</p></td>
+<td class=3D"confluenceTd">
+<p>AWS Transfer family</p></td>
+<td class=3D"confluenceTd">
+<p><code>https://console.aws.amazon.com/transfer/</code></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>Armazenamento de banco de dados</p></td>
+<td class=3D"confluenceTd">
+<p>AWS Bucket S3 e RDS</p></td>
+<td class=3D"confluenceTd">
+<p>desacoplado do EC2</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>Consultas de banco de dados</p></td>
+<td class=3D"confluenceTd">
+<p>AWS Athena</p></td>
+<td class=3D"confluenceTd">
+<p>particionado</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>Processamento dos dados</p></td>
+<td class=3D"confluenceTd">
+<p>Spark/AWS Glue</p></td>
+<td class=3D"confluenceTd">
+<p>integrando aos servi=C3=A7os de analytics</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>ETL</p></td>
+<td class=3D"confluenceTd">
+<p>Spark/AWS Glue</p></td>
+<td class=3D"confluenceTd">
+<p>dbclimatempo / jobs</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"ClimaTempo-=F0=9F=9A=A9Conquistaseprazos">=F0=9F=9A=A9&nbsp;Conqu=
+istas e prazos</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"ca=
+78b1e4-3311-49dd-b079-a3e15cb0f447" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 348.0px;">
+<col style=3D"width: 142.0px;">
+<col style=3D"width: 171.0px;">
+<col style=3D"width: 98.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th data-highlight-colour=3D"#f4f5f7" class=3D"confluenceTh">
+<p><strong>Conquista</strong></p></th>
+<th data-highlight-colour=3D"#f4f5f7" class=3D"confluenceTh">
+<p><strong>Propriet=C3=A1rio</strong></p></th>
+<th data-highlight-colour=3D"#f4f5f7" class=3D"confluenceTh">
+<p><strong>Prazo</strong></p></th>
+<th data-highlight-colour=3D"#f4f5f7" class=3D"confluenceTh">
+<p><strong>Status</strong></p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>Instancia EC2</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><time datetime=3D"2025-09-05" class=3D"date-past">5 de set. de 2025</tim=
+e></p></td>
+<td class=3D"confluenceTd">
+<p><span class=3D"status-macro aui-lozenge aui-lozenge-visual-refresh aui-l=
+ozenge-success">DONE</span></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>Bucket S3</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><time datetime=3D"2025-09-05" class=3D"date-past">5 de set. de 2025</tim=
+e></p></td>
+<td class=3D"confluenceTd">
+<p><span class=3D"status-macro aui-lozenge aui-lozenge-visual-refresh aui-l=
+ozenge-success">DONE</span></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>=F0=9F=A5=B3&nbsp;Concluir o plano do projeto e atribuir o trabalho</p><=
+/td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><time datetime=3D"2025-09-08" class=3D"date-upcoming">8 de set. de 2025<=
+/time></p></td>
+<td class=3D"confluenceTd">
+<p><span class=3D"status-macro aui-lozenge aui-lozenge-visual-refresh aui-l=
+ozenge-success">DONE</span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"ClimaTempo-=F0=9F=94=97Materiaisrelacionados">=F0=9F=94=97&nbsp;M=
+ateriais relacionados</h2>
+<p><a href=3D"https://cimatempo.atlassian.net/wiki/pages/resumedraft.action=
+?draftId=3D98416" rel=3D"nofollow">https://cimatempo.atlassian.net/wiki/pag=
+es/resumedraft.action?draftId=3D98416</a></p>
+<p><a class=3D"external-link" href=3D"https://cloudwatch.amazonaws.com/dash=
+board.html?dashboard=3DCloudWatch-Default&amp;context=3DeyJSIjoidXMtZWFzdC0=
+xIiwiRCI6ImN3LWRiLTI5NDE5MDk3MDcxOCIsIlUiOiJ1cy1lYXN0LTFfUGdmUFJoZWFJIiwiQy=
+I6IjQ0am5sZGVuZWVhOHVnZ2h2azJtYzRhbnFhIiwiSSI6InVzLWVhc3QtMTpmN2I0Nzg1Yy0xY=
+zJhLTRmODgtYmEzOS03YjhiYTdhYTQ4MmQiLCJPIjoiYXJuOmF3czppYW06OjI5NDE5MDk3MDcx=
+ODpyb2xlL3NlcnZpY2Utcm9sZS9DV0RCU2hhcmluZy1QdWJsaWNSZWFkT25seUFjY2Vzcy1SUFo=
+wVEY2VyIsIk0iOiJQdWJsaWMifQ=3D=3D&amp;start=3DPT3H&amp;end=3Dnull" rel=3D"n=
+ofollow">Dashboard CloudWatch</a></p>
+<p><br></p>
+    </div>
+</body>
+</html>
+------=_Part_6_347691764.1757264254890--
